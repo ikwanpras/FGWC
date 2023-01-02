@@ -2,7 +2,7 @@
 Sovi_Pop <- sovi_data_pop_skripsi$...1
 print(Sovi_Pop)
 
-aa <- as.matrix(sovi_distance)
+aa <- as.data.frame.data.table(sovi_distance_Copy)
 
 # Library yag dibutuhka
 library(naspaclust)
