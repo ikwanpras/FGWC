@@ -22,3 +22,7 @@ gsa_param <- c(vi.dist='normal',npar=5,same=15,G=1,vmax=0.7,new=FALSE)
 #GSA-FGWC
 Res_gsafgwc <- fgwc(data=sovi_data, pop=Sovi_Pop, distmat=mat_dist, 
                     algorithm = "gsa", param_fgwc,gsa_param)
+
+# Menggabungkan hasil cluster algoritma FGWC dengan data
+cluster.output <- cbind(data_kab ,Res_gsafgwc$cluster)
+write.csv(cluster.output, file = "Final Cluster.csv", row.names = TRUE)
