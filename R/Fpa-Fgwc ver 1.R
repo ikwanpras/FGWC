@@ -1,9 +1,9 @@
 # Load Data Sovi
-load("D:/My Drive/deden-RMarkdown & Github/FGWC/Data/sovi_data.rdata")
+load("G:/My Drive/SKRIPSI/EXPERIMENT SKRIPSI/FGWC/DATA/sovi_data.rdata")
 # Load Data Matrix Distance
-load("D:/My Drive/deden-RMarkdown & Github/FGWC/Data/sovi_dist.rdata")
+load("G:/My Drive/SKRIPSI/EXPERIMENT SKRIPSI/FGWC/DATA/sovi_dist.rdata")
 #Load Data Populasi
-load("D:/My Drive/deden-RMarkdown & Github/FGWC/Data/sovi_pop.rdata")
+load("G:/My Drive/SKRIPSI/EXPERIMENT SKRIPSI/FGWC/DATA/sovi_pop.rdata")
 
 #Mengubah data frame Sovi distance menjadi matrik distance
 mat_dist= data.matrix(sovi_distance)
@@ -23,3 +23,7 @@ fpa_param <- c(vi.dist='normal',npar=5,same=15,p=0.7,gamma=1.2,lambda=1.5,
 #FPA-FGWC
 Res_fpafgwc <- fgwc(data=sovi_data, pop=Sovi_Pop, distmat=mat_dist, algorithm = "fpa", 
                     param_fgwc,fpa_param)
+
+# Menggabungkan hasil cluster algoritma FGWC dengan data
+cluster.output <- cbind(data_kab ,Res_ifafgwc$cluster)
+write.csv(cluster.output, file = "FPA Final Cluster.csv", row.names = TRUE)

@@ -1,7 +1,9 @@
-# Load Data
-load("D:/My Drive/deden-RMarkdown & Github/FGWC/Data/census2010.rdata")
-load("D:/My Drive/deden-RMarkdown & Github/FGWC/Data/census2010dist.rdata")
-load("D:/My Drive/deden-RMarkdown & Github/FGWC/Data/census2010pop.rdata")
+# Load Data Sovi
+load("G:/My Drive/SKRIPSI/EXPERIMENT SKRIPSI/FGWC/DATA/census2010.rdata")
+# Load Data Matrix Distance
+load("G:/My Drive/SKRIPSI/EXPERIMENT SKRIPSI/FGWC/DATA/census2010dist.rdata")
+#Load Data Populasi
+load("G:/My Drive/SKRIPSI/EXPERIMENT SKRIPSI/FGWC/DATA/census2010pop.rdata")
 
 #Plot Disatance
 library(ggplot2)

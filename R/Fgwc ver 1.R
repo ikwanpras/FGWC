@@ -1,13 +1,12 @@
 # Load Data Sovi
-load("D:/My Drive/deden-RMarkdown & Github/FGWC/Data/sovi_data.rdata")
+load("G:/My Drive/SKRIPSI/EXPERIMENT SKRIPSI/FGWC/DATA/sovi_data.rdata")
 # Load Data Matrix Distance
-load("D:/My Drive/deden-RMarkdown & Github/FGWC/Data/sovi_dist.rdata")
+load("G:/My Drive/SKRIPSI/EXPERIMENT SKRIPSI/FGWC/DATA/sovi_dist.rdata")
 #Load Data Populasi
-load("D:/My Drive/deden-RMarkdown & Github/FGWC/Data/sovi_pop.rdata")
+load("G:/My Drive/SKRIPSI/EXPERIMENT SKRIPSI/FGWC/DATA/sovi_pop.rdata")
 
 #Mengubah data frame Sovi distance menjadi matrik distance
 mat_dist= data.matrix(sovi_distance)
-
 
 # Library yag dibutuhkan
 library(naspaclust)
