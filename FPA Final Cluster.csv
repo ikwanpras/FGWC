@@ -1,0 +1,512 @@
+NO;Kode;kabupaten;Res_fpafgwc$cluster
+1;1101;Simeulue;3
+2;1102;Aceh Singkil;2
+3;1103;Aceh Selatan;2
+4;1104;Aceh Tenggara;2
+5;1105;Aceh Timur;2
+6;1106;Aceh Tengah;2
+7;1107;Aceh Barat;2
+8;1108;Aceh Besar;2
+9;1109;Pidie;2
+10;1110;Bireuen;2
+11;1111;Aceh Utara;2
+12;1112;Aceh Barat Daya;2
+13;1113;Gayo Lues;2
+14;1114;Aceh Tamiang;2
+15;1115;Nagan Raya;2
+16;1116;Aceh Jaya;3
+17;1117;Bener Meriah;2
+18;1118;Pidie Jaya;2
+19;1171;Banda Aceh;3
+20;1172;Kota Sabang;3
+21;1173;Kota Langsa;2
+22;1174;Kota Lhokseumawe;2
+23;1175;Kota Subulussalam;2
+24;1201;Nias;3
+25;1202;Mandailing Natal;2
+26;1203;Tapanuli Selatan;2
+27;1204;Tapanuli Tengah;2
+28;1205;Tapanuli Utara;2
+29;1206;Toba Samosir;2
+30;1207;Labuhan Batu;3
+31;1208;Asahan;3
+32;1209;Simalungun;3
+33;1210;Dairi;2
+34;1211;Karo;2
+35;1212;Deli Serdang;3
+36;1213;Langkat;3
+37;1214;Nias Selatan;1
+38;1215;Humbang Hasundutan;2
+39;1216;Pakpak Bharat;2
+40;1217;Samosir;2
+41;1218;Serdang Bedagai;3
+42;1219;Batu Bara;3
+43;1220;Padang Lawas Utara;2
+44;1221;Padang Lawas;2
+45;1222;Labuhan Batu Selatan;3
+46;1223;Labuhan Batu Utara;3
+47;1224;Nias Utara;1
+48;1225;Nias Barat;1
+49;1271;Kota Sibolga;4
+50;1272;Kota Tanjung Balai;4
+51;1273;Kota Pematang Siantar;4
+52;1274;Kota Tebing Tinggi;3
+53;1275;Kota Medan;3
+54;1276;Kota Binjai;3
+55;1277;Kota Padang Sidempuan;2
+56;1278;Kota Gunungsitoli;2
+57;1301;Kepulauan Mentawai;3
+58;1302;Pesisir Selatan;2
+59;1303;Solok;2
+60;1304;Sijunjung;2
+61;1305;Tanah Datar;3
+62;1306;Padang Pariaman;2
+63;1307;Agam;2
+64;1308;Lima Puluh Kota;2
+65;1309;Pasaman;2
+66;1310;Solok Selatan;2
+67;1311;Dharmasraya;3
+68;1312;Pasaman Barat;2
+69;1371;Kota Padang;3
+70;1372;Kota Solok;4
+71;1373;Kota Sawah Lunto;3
+72;1374;Kota Padang Panjang;3
+73;1375;Kota Bukittinggi;3
+74;1376;Kota Payakumbuh;4
+75;1377;Kota Pariaman;3
+76;1401;Kuantan Singingi;3
+77;1402;Indragiri Hulu;3
+78;1403;Indragiri Hilir;3
+79;1404;Pelalawan;3
+80;1405;SIAK;3
+81;1406;Kampar;3
+82;1407;Rokan Hulu;3
+83;1408;Bengkalis;3
+84;1409;Rokan Hilir;3
+85;1410;Kepulauan Meranti;3
+86;1471;Kota Pekanbaru;3
+87;1473;Kota Dumai;3
+88;1501;Kerinci;3
+89;1502;Merangin;3
+90;1503;Sarolangun;3
+91;1504;Batang Hari;3
+92;1505;Muaro Jambi;3
+93;1506;Tanjung Jabung Timur;3
+94;1507;Tanjung Jabung Barat;3
+95;1508;Tebo;3
+96;1509;Bungo;2
+97;1571;Kota Jambi;3
+98;1572;Kota Sungai Penuh;4
+99;1601;Ogan Komering Ulu;2
+100;1602;Ogan Komering Ilir;3
+101;1603;Muara Enim;3
+102;1604;Lahat;2
+103;1605;Musi Rawas;3
+104;1606;Musi Banyuasin;3
+105;1607;Banyu Asin;3
+106;1608;Ogan Komering Ulu Selatan;3
+107;1609;Ogan Komering Ulu Timur;3
+108;1610;Ogan Ilir;3
+109;1611;Empat Lawang;3
+110;1612;Penukal Abab Lematang Ilir;3
+111;1613;Musi Rawas Utara;3
+112;1671;Kota Palembang;4
+113;1672;Kota Prabumulih;3
+114;1673;Kota Pagar Alam;2
+115;1674;Kota Lubuklinggau;2
+116;1701;Bengkulu Selatan;2
+117;1702;Rejang Lebong;3
+118;1703;Bengkulu Utara;3
+119;1704;Kaur;2
+120;1705;Seluma;3
+121;1706;Mukomuko;3
+122;1707;Lebong;2
+123;1708;Kepahiang;3
+124;1709;Bengkulu Tengah;3
+125;1771;Kota Bengkulu;3
+126;1801;Lampung Barat;3
+127;1802;Tanggamus;3
+128;1803;Lampung Selatan;3
+129;1804;Lampung Timur;3
+130;1805;Lampung Tengah;3
+131;1806;Lampung Utara;3
+132;1807;Way Kanan;3
+133;1808;Tulangbawang;3
+134;1809;Pesawaran;3
+135;1810;Pringsewu;3
+136;1811;Mesuji;3
+137;1812;Tulang Bawang Barat;3
+138;1813;Pesisir Barat;2
+139;1871;Kota Bandar Lampung;3
+140;1872;Kota Metro;3
+141;1901;Bangka;3
+142;1902;Belitung;3
+143;1903;Bangka Barat;3
+144;1904;Bangka Tengah;3
+145;1905;Bangka Selatan;3
+146;1906;Belitung Timur;3
+147;1971;Kota Pangkal Pinang;3
+148;2101;Karimun;3
+149;2102;Bintan;3
+150;2103;Natuna;3
+151;2104;Lingga;3
+152;2105;Kepulauan Anambas;3
+153;2171;Kota Batam;4
+154;2172;Kota Tanjung Pinang;3
+155;3101;Kepulauan Seribu;3
+156;3171;Jakarta Selatan;3
+157;3172;Jakarta Timur;3
+158;3173;Jakarta Pusat;3
+159;3174;Jakarta Barat;3
+160;3175;Jakarta Utara;4
+161;3201;Bogor;3
+162;3202;Sukabumi;3
+163;3203;Cianjur;3
+164;3204;Bandung;3
+165;3205;Garut;3
+166;3206;Tasikmalaya;3
+167;3207;Ciamis;3
+168;3208;Kuningan;3
+169;3209;Cirebon;3
+170;3210;Majalengka;3
+171;3211;Sumedang;3
+172;3212;Indramayu;3
+173;3213;Subang;3
+174;3214;Purwakarta;3
+175;3215;Karawang;3
+176;3216;Bekasi;3
+177;3217;Bandung Barat;3
+178;3218;Pangandaran;3
+179;3271;Kota Bogor;3
+180;3272;Kota Sukabumi;3
+181;3273;Kota Bandung;3
+182;3274;Kota Cirebon;3
+183;3275;Kota Bekasi;3
+184;3276;Kota Depok;3
+185;3277;Kota Cimahi;3
+186;3278;Kota Tasikmalaya;3
+187;3279;Kota Banjar;3
+188;3301;Cilacap;3
+189;3302;Banyumas;3
+190;3303;Purbalingga;3
+191;3304;Banjarnegara;3
+192;3305;Kebumen;3
+193;3306;Purworejo;3
+194;3307;Wonosobo;3
+195;3308;Magelang;3
+196;3309;Boyolali;3
+197;3310;Klaten;3
+198;3311;Sukoharjo;3
+199;3312;Wonogiri;3
+200;3313;Karanganyar;3
+201;3314;Sragen;3
+202;3315;Grobogan;3
+203;3316;Blora;3
+204;3317;Rembang;3
+205;3318;Pati;3
+206;3319;Kudus;3
+207;3320;Jepara;3
+208;3321;Demak;3
+209;3322;Semarang;3
+210;3323;Temanggung;3
+211;3324;Kendal;3
+212;3325;Batang;3
+213;3326;Pekalongan;3
+214;3327;Pemalang;3
+215;3328;Tegal;3
+216;3329;Brebes;3
+217;3371;Kota Magelang;4
+218;3372;Kota Surakarta;3
+219;3373;Kota Salatiga;3
+220;3374;Kota Semarang;3
+221;3375;Kota Pekalongan;3
+222;3376;Kota Tegal;4
+223;3401;Kulon Progo;3
+224;3402;Bantul;3
+225;3403;Gunung Kidul;3
+226;3404;Sleman;3
+227;3471;Kota Yogyakarta;3
+228;3501;Pacitan;3
+229;3502;Ponorogo;3
+230;3503;Trenggalek;3
+231;3504;Tulungagung;3
+232;3505;Blitar;3
+233;3506;Kediri;3
+234;3507;Malang;3
+235;3508;Lumajang;3
+236;3509;Jember;3
+237;3510;Banyuwangi;3
+238;3511;Bondowoso;3
+239;3512;Situbondo;3
+240;3513;Probolinggo;3
+241;3514;Pasuruan;3
+242;3515;Sidoarjo;3
+243;3516;Mojokerto;3
+244;3517;Jombang;3
+245;3518;Nganjuk;3
+246;3519;Madiun;3
+247;3520;Magetan;3
+248;3521;Ngawi;3
+249;3522;Bojonegoro;3
+250;3523;Tuban;3
+251;3524;Lamongan;3
+252;3525;Gresik;3
+253;3526;Bangkalan;3
+254;3527;Sampang;3
+255;3528;Pamekasan;3
+256;3529;Sumenep;3
+257;3571;Kediri;3
+258;3572;Blitar;3
+259;3573;Kota Malang;3
+260;3574;Kota Probolinggo;3
+261;3575;Kota Pasuruan;3
+262;3576;Kota Mojokerto;3
+263;3577;Kota Madiun;3
+264;3578;Kota Surabaya;4
+265;3579;Kota Batu;3
+266;3601;Pandeglang;3
+267;3602;Lebak;3
+268;3603;Tangerang;3
+269;3604;Serang;3
+270;3671;Tangerang;3
+271;3672;Cilegon;3
+272;3673;Kota Serang;3
+273;3674;Kota Tangerang Selatan;3
+274;5101;Jembrana;3
+275;5102;Tabanan;4
+276;5103;Badung;3
+277;5104;Gianyar;3
+278;5105;Klungkung;4
+279;5106;Bangli;3
+280;5107;Karang Asem;3
+281;5108;Buleleng;3
+282;5171;Kota Denpasar;3
+283;5201;Lombok Barat;2
+284;5202;Lombok Tengah;3
+285;5203;Lombok Timur;3
+286;5204;Sumbawa;2
+287;5205;Dompu;2
+288;5206;Bima;2
+289;5207;Sumbawa Barat;3
+290;5208;Lombok Utara;2
+291;5271;Kota Mataram;4
+292;5272;Kota Bima;2
+293;5301;Sumba Barat;1
+294;5302;Sumba Timur;1
+295;5303;Kupang;1
+296;5304;Timor Tengah Selatan;1
+297;5305;Timor Tengah Utara;1
+298;5306;Belu;3
+299;5307;Alor;3
+300;5308;Lembata;3
+301;5309;Flores Timur;3
+302;5310;Sikka;3
+303;5311;Ende;3
+304;5312;Ngada;3
+305;5313;Manggarai;3
+306;5314;Rote Ndao;1
+307;5315;Manggarai Barat;1
+308;5316;Sumba Tengah;1
+309;5317;Sumba Barat Daya;1
+310;5318;Nagekeo;3
+311;5319;Manggarai Timur;3
+312;5320;Sabu Raijua;1
+313;5321;Malaka;1
+314;5371;Kota Kupang;3
+315;6101;Sambas;3
+316;6102;Bengkayang;3
+317;6103;Landak;1
+318;6104;Mempawah;3
+319;6105;Sanggau;3
+320;6106;Ketapang;3
+321;6107;Sintang;3
+322;6108;Kapuas Hulu;2
+323;6109;Sekadau;3
+324;6110;Melawi;1
+325;6111;Kayong Utara;3
+326;6112;Kubu Raya;3
+327;6171;Kota Pontianak;3
+328;6172;Kota Singkawang;3
+329;6201;Kotawaringin Barat;3
+330;6202;Kotawaringin Timur;3
+331;6203;Kapuas;3
+332;6204;Barito Selatan;3
+333;6205;Barito Utara;3
+334;6206;Sukamara;3
+335;6207;Lamandau;3
+336;6208;Seruyan;3
+337;6209;Katingan;3
+338;6210;Pulang Pisau;3
+339;6211;Gunung Mas;3
+340;6212;Barito Timur;3
+341;6213;Murung Raya;3
+342;6271;Kota Palangka Raya;3
+343;6301;Tanah Laut;3
+344;6302;Kota Baru;3
+345;6303;Banjar;3
+346;6304;Barito Kuala;3
+347;6305;Tapin;3
+348;6306;Hulu Sungai Selatan;3
+349;6307;Hulu Sungai Tengah;3
+350;6308;Hulu Sungai Utara;3
+351;6309;Tabalong;3
+352;6310;Tanah Bumbu;3
+353;6311;Balangan;3
+354;6371;Kota Banjarmasin;4
+355;6372;Kota Banjar Baru;3
+356;6401;Paser;3
+357;6402;Kutai Barat;3
+358;6403;Kutai Kartanegara;3
+359;6404;Kutai Timur;3
+360;6405;Berau;3
+361;6409;Penajam Paser Utara;3
+362;6411;Mahakam Hulu;3
+363;6471;Kota Balikpapan;4
+364;6472;Kota Samarinda;4
+365;6474;Kota Bontang;4
+366;6501;Malinau;3
+367;6502;Bulungan;3
+368;6503;Tana Tidung;3
+369;6504;Nunukan;3
+370;6571;Kota Tarakan;3
+371;7101;Bolaang Mongondow;3
+372;7102;Minahasa;3
+373;7103;Kepulauan Sangihe;2
+374;7104;Kepulauan Talaud;3
+375;7105;Minahasa Selatan;3
+376;7106;Minahasa Utara;3
+377;7107;Bolaang Mongondow Utara;2
+378;7108;Siau Tagulandang Biaro;3
+379;7109;Minahasa Tenggara;3
+380;7110;Bolaang Mongondow Selatan;2
+381;7111;Bolaang Mongondow Timur;3
+382;7171;Kota Manado;3
+383;7172;Kota Bitung;3
+384;7173;Kota Tomohon;3
+385;7174;Kota Kotamobagu;3
+386;7201;Banggai Kepulauan;2
+387;7202;Banggai;3
+388;7203;Morowali;3
+389;7204;Poso;2
+390;7205;Donggala;2
+391;7206;Toli-toli;2
+392;7207;Buol;2
+393;7208;Parigi Moutong;3
+394;7209;Tojo Una-una;2
+395;7210;Sigi;2
+396;7211;Banggai Laut;2
+397;7212;Morowali Utara;2
+398;7271;Kota Palu;3
+399;7301;Kepulauan Selayar;2
+400;7302;Bulukumba;3
+401;7303;Bantaeng;3
+402;7304;Jeneponto;2
+403;7305;Takalar;3
+404;7306;Gowa;3
+405;7307;Sinjai;3
+406;7308;Maros;3
+407;7309;Pangkajene Dan Kepulauan;3
+408;7310;Barru;3
+409;7311;Bone;3
+410;7312;Soppeng;3
+411;7313;Wajo;3
+412;7314;Sidenreng Rappang;3
+413;7315;Pinrang;3
+414;7316;Enrekang;2
+415;7317;Luwu;2
+416;7318;Tana Toraja;3
+417;7322;Luwu Utara;3
+418;7325;Luwu Timur;2
+419;7326;Toraja Utara;3
+420;7371;Kota Makassar;4
+421;7372;Kota Parepare;3
+422;7373;Kota Palopo;4
+423;7401;Buton;2
+424;7402;Muna;2
+425;7403;Konawe;2
+426;7404;Kolaka;2
+427;7405;Konawe Selatan;3
+428;7406;Bombana;2
+429;7407;Wakatobi;3
+430;7408;Kolaka Utara;3
+431;7409;Buton Utara;2
+432;7410;Konawe Utara;2
+433;7411;Kolaka Timur;3
+434;7412;Konawe Kepulauan;2
+435;7471;Kota Kendari;3
+436;7472;Kota Baubau;3
+437;7501;Boalemo;3
+438;7502;Gorontalo;2
+439;7503;Pohuwato;3
+440;7504;Bone Bolango;2
+441;7505;Gorontalo Utara;2
+442;7571;Kota Gorontalo;3
+443;7601;Majene;2
+444;7602;Polewali Mandar;2
+445;7603;Mamasa;2
+446;7604;Mamuju;2
+447;7605;Mamuju Utara;3
+448;7606;Mamuju Tengah;3
+449;8101;Maluku Tenggara Barat;2
+450;8102;Maluku Tenggara;2
+451;8103;Maluku Tengah;2
+452;8104;Buru;2
+453;8105;Kepulauan Aru;3
+454;8106;Seram Bagian Barat;1
+455;8107;Seram Bagian Timur;1
+456;8108;Maluku Barat Daya;1
+457;8109;Buru Selatan;2
+458;8171;Kota Ambon;3
+459;8172;Kota Tual;2
+460;8201;Halmahera Barat;2
+461;8202;Halmahera Tengah;2
+462;8203;Kepulauan Sula;2
+463;8204;Halmahera Selatan;2
+464;8205;Halmahera Utara;2
+465;8206;Halmahera Timur;2
+466;8207;Pulau Morotai;2
+467;8208;Pulau Taliabu;3
+468;8271;Kota Ternate;4
+469;8272;Kota Tidore Kepulauan;3
+470;9101;Fakfak;2
+471;9102;Kaimana;1
+472;9103;Teluk Wondama;1
+473;9104;Teluk Bintuni;1
+474;9105;Manokwari;2
+475;9106;Sorong Selatan;2
+476;9107;Sorong;2
+477;9108;Raja Ampat;1
+478;9109;Tambrauw;1
+479;9110;Maybrat;2
+480;9111;Manokwari Selatan;1
+481;9112;Pegunungan Arfak;1
+482;9171;Kota Sorong;3
+483;9401;Merauke;3
+484;9402;Jayawijaya;1
+485;9403;Jayapura;2
+486;9404;Nabire;3
+487;9408;Kepulauan Yapen;3
+488;9409;Biak Numfor;3
+489;9410;Paniai;3
+490;9411;Puncak Jaya;3
+491;9412;Mimika;3
+492;9413;Boven Digoel;1
+493;9414;Mappi;3
+494;9415;Asmat;3
+495;9416;Yahukimo;3
+496;9417;Pegunungan Bintang;3
+497;9418;Tolikara;3
+498;9419;Sarmi;3
+499;9420;Keerom;3
+500;9426;Waropen;3
+501;9427;Supiori;3
+502;9428;Mamberamo Raya;3
+503;9429;Nduga;3
+504;9430;Lanny Jaya;3
+505;9431;Mamberamo Tengah;1
+506;9432;Yalimo;3
+507;9433;Puncak;3
+508;9434;Dogiyai;3
+509;9435;Intan Jaya;3
+510;9436;Deiyai;1
+511;9471;Kota Jayapura;4

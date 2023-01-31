@@ -1,0 +1,512 @@
+"","NO","Kode","kabupaten","Res_abcfgwc$cluster"
+"1",1,1101,"Simeulue",1
+"2",2,1102,"Aceh Singkil",1
+"3",3,1103,"Aceh Selatan",1
+"4",4,1104,"Aceh Tenggara",1
+"5",5,1105,"Aceh Timur",1
+"6",6,1106,"Aceh Tengah",1
+"7",7,1107,"Aceh Barat",1
+"8",8,1108,"Aceh Besar",1
+"9",9,1109,"Pidie",1
+"10",10,1110,"Bireuen",1
+"11",11,1111,"Aceh Utara",1
+"12",12,1112,"Aceh Barat Daya",1
+"13",13,1113,"Gayo Lues",1
+"14",14,1114,"Aceh Tamiang",2
+"15",15,1115,"Nagan Raya",1
+"16",16,1116,"Aceh Jaya",1
+"17",17,1117,"Bener Meriah",3
+"18",18,1118,"Pidie Jaya",1
+"19",19,1171,"Banda Aceh",4
+"20",20,1172,"Kota Sabang",4
+"21",21,1173,"Kota Langsa",4
+"22",22,1174,"Kota Lhokseumawe",1
+"23",23,1175,"Kota Subulussalam",1
+"24",24,1201,"Nias",1
+"25",25,1202,"Mandailing Natal",1
+"26",26,1203,"Tapanuli Selatan",1
+"27",27,1204,"Tapanuli Tengah",1
+"28",28,1205,"Tapanuli Utara",1
+"29",29,1206,"Toba Samosir",2
+"30",30,1207,"Labuhan Batu",1
+"31",31,1208,"Asahan",3
+"32",32,1209,"Simalungun",4
+"33",33,1210,"Dairi",4
+"34",34,1211,"Karo",4
+"35",35,1212,"Deli Serdang",4
+"36",36,1213,"Langkat",1
+"37",37,1214,"Nias Selatan",1
+"38",38,1215,"Humbang Hasundutan",1
+"39",39,1216,"Pakpak Bharat",1
+"40",40,1217,"Samosir",1
+"41",41,1218,"Serdang Bedagai",1
+"42",42,1219,"Batu Bara",1
+"43",43,1220,"Padang Lawas Utara",1
+"44",44,1221,"Padang Lawas",1
+"45",45,1222,"Labuhan Batu Selatan",1
+"46",46,1223,"Labuhan Batu Utara",1
+"47",47,1224,"Nias Utara",1
+"48",48,1225,"Nias Barat",1
+"49",49,1271,"Kota Sibolga",4
+"50",50,1272,"Kota Tanjung Balai",4
+"51",51,1273,"Kota Pematang Siantar",4
+"52",52,1274,"Kota Tebing Tinggi",4
+"53",53,1275,"Kota Medan",4
+"54",54,1276,"Kota Binjai",4
+"55",55,1277,"Kota Padang Sidempuan",4
+"56",56,1278,"Kota Gunungsitoli",2
+"57",57,1301,"Kepulauan Mentawai",1
+"58",58,1302,"Pesisir Selatan",1
+"59",59,1303,"Solok",1
+"60",60,1304,"Sijunjung",1
+"61",61,1305,"Tanah Datar",2
+"62",62,1306,"Padang Pariaman",1
+"63",63,1307,"Agam",1
+"64",64,1308,"Lima Puluh Kota",1
+"65",65,1309,"Pasaman",1
+"66",66,1310,"Solok Selatan",4
+"67",67,1311,"Dharmasraya",1
+"68",68,1312,"Pasaman Barat",1
+"69",69,1371,"Kota Padang",4
+"70",70,1372,"Kota Solok",4
+"71",71,1373,"Kota Sawah Lunto",4
+"72",72,1374,"Kota Padang Panjang",4
+"73",73,1375,"Kota Bukittinggi",4
+"74",74,1376,"Kota Payakumbuh",4
+"75",75,1377,"Kota Pariaman",1
+"76",76,1401,"Kuantan Singingi",1
+"77",77,1402,"Indragiri Hulu",1
+"78",78,1403,"Indragiri Hilir",1
+"79",79,1404,"Pelalawan",1
+"80",80,1405,"SIAK",3
+"81",81,1406,"Kampar",1
+"82",82,1407,"Rokan Hulu",1
+"83",83,1408,"Bengkalis",1
+"84",84,1409,"Rokan Hilir",1
+"85",85,1410,"Kepulauan Meranti",1
+"86",86,1471,"Kota Pekanbaru",1
+"87",87,1473,"Kota Dumai",1
+"88",88,1501,"Kerinci",4
+"89",89,1502,"Merangin",1
+"90",90,1503,"Sarolangun",1
+"91",91,1504,"Batang Hari",1
+"92",92,1505,"Muaro Jambi",1
+"93",93,1506,"Tanjung Jabung Timur",1
+"94",94,1507,"Tanjung Jabung Barat",1
+"95",95,1508,"Tebo",1
+"96",96,1509,"Bungo",1
+"97",97,1571,"Kota Jambi",4
+"98",98,1572,"Kota Sungai Penuh",4
+"99",99,1601,"Ogan Komering Ulu",2
+"100",100,1602,"Ogan Komering Ilir",1
+"101",101,1603,"Muara Enim",1
+"102",102,1604,"Lahat",1
+"103",103,1605,"Musi Rawas",1
+"104",104,1606,"Musi Banyuasin",3
+"105",105,1607,"Banyu Asin",1
+"106",106,1608,"Ogan Komering Ulu Selatan",1
+"107",107,1609,"Ogan Komering Ulu Timur",1
+"108",108,1610,"Ogan Ilir",1
+"109",109,1611,"Empat Lawang",1
+"110",110,1612,"Penukal Abab Lematang Ilir",1
+"111",111,1613,"Musi Rawas Utara",1
+"112",112,1671,"Kota Palembang",4
+"113",113,1672,"Kota Prabumulih",3
+"114",114,1673,"Kota Pagar Alam",1
+"115",115,1674,"Kota Lubuklinggau",2
+"116",116,1701,"Bengkulu Selatan",1
+"117",117,1702,"Rejang Lebong",3
+"118",118,1703,"Bengkulu Utara",1
+"119",119,1704,"Kaur",1
+"120",120,1705,"Seluma",1
+"121",121,1706,"Mukomuko",1
+"122",122,1707,"Lebong",1
+"123",123,1708,"Kepahiang",3
+"124",124,1709,"Bengkulu Tengah",1
+"125",125,1771,"Kota Bengkulu",3
+"126",126,1801,"Lampung Barat",1
+"127",127,1802,"Tanggamus",1
+"128",128,1803,"Lampung Selatan",1
+"129",129,1804,"Lampung Timur",1
+"130",130,1805,"Lampung Tengah",1
+"131",131,1806,"Lampung Utara",1
+"132",132,1807,"Way Kanan",1
+"133",133,1808,"Tulangbawang",1
+"134",134,1809,"Pesawaran",1
+"135",135,1810,"Pringsewu",1
+"136",136,1811,"Mesuji",1
+"137",137,1812,"Tulang Bawang Barat",1
+"138",138,1813,"Pesisir Barat",1
+"139",139,1871,"Kota Bandar Lampung",3
+"140",140,1872,"Kota Metro",1
+"141",141,1901,"Bangka",1
+"142",142,1902,"Belitung",1
+"143",143,1903,"Bangka Barat",1
+"144",144,1904,"Bangka Tengah",1
+"145",145,1905,"Bangka Selatan",1
+"146",146,1906,"Belitung Timur",1
+"147",147,1971,"Kota Pangkal Pinang",1
+"148",148,2101,"Karimun",3
+"149",149,2102,"Bintan",3
+"150",150,2103,"Natuna",4
+"151",151,2104,"Lingga",4
+"152",152,2105,"Kepulauan Anambas",1
+"153",153,2171,"Kota Batam",4
+"154",154,2172,"Kota Tanjung Pinang",4
+"155",155,3101,"Kepulauan Seribu",1
+"156",156,3171,"Jakarta Selatan",3
+"157",157,3172,"Jakarta Timur",4
+"158",158,3173,"Jakarta Pusat",4
+"159",159,3174,"Jakarta Barat",4
+"160",160,3175,"Jakarta Utara",4
+"161",161,3201,"Bogor",1
+"162",162,3202,"Sukabumi",1
+"163",163,3203,"Cianjur",1
+"164",164,3204,"Bandung",1
+"165",165,3205,"Garut",1
+"166",166,3206,"Tasikmalaya",1
+"167",167,3207,"Ciamis",1
+"168",168,3208,"Kuningan",1
+"169",169,3209,"Cirebon",1
+"170",170,3210,"Majalengka",1
+"171",171,3211,"Sumedang",1
+"172",172,3212,"Indramayu",3
+"173",173,3213,"Subang",1
+"174",174,3214,"Purwakarta",1
+"175",175,3215,"Karawang",1
+"176",176,3216,"Bekasi",4
+"177",177,3217,"Bandung Barat",1
+"178",178,3218,"Pangandaran",1
+"179",179,3271,"Kota Bogor",4
+"180",180,3272,"Kota Sukabumi",3
+"181",181,3273,"Kota Bandung",4
+"182",182,3274,"Kota Cirebon",1
+"183",183,3275,"Kota Bekasi",2
+"184",184,3276,"Kota Depok",3
+"185",185,3277,"Kota Cimahi",1
+"186",186,3278,"Kota Tasikmalaya",1
+"187",187,3279,"Kota Banjar",3
+"188",188,3301,"Cilacap",1
+"189",189,3302,"Banyumas",1
+"190",190,3303,"Purbalingga",3
+"191",191,3304,"Banjarnegara",1
+"192",192,3305,"Kebumen",1
+"193",193,3306,"Purworejo",1
+"194",194,3307,"Wonosobo",4
+"195",195,3308,"Magelang",1
+"196",196,3309,"Boyolali",3
+"197",197,3310,"Klaten",3
+"198",198,3311,"Sukoharjo",3
+"199",199,3312,"Wonogiri",3
+"200",200,3313,"Karanganyar",4
+"201",201,3314,"Sragen",4
+"202",202,3315,"Grobogan",1
+"203",203,3316,"Blora",1
+"204",204,3317,"Rembang",1
+"205",205,3318,"Pati",3
+"206",206,3319,"Kudus",3
+"207",207,3320,"Jepara",1
+"208",208,3321,"Demak",4
+"209",209,3322,"Semarang",3
+"210",210,3323,"Temanggung",3
+"211",211,3324,"Kendal",4
+"212",212,3325,"Batang",1
+"213",213,3326,"Pekalongan",1
+"214",214,3327,"Pemalang",3
+"215",215,3328,"Tegal",3
+"216",216,3329,"Brebes",1
+"217",217,3371,"Kota Magelang",4
+"218",218,3372,"Kota Surakarta",4
+"219",219,3373,"Kota Salatiga",4
+"220",220,3374,"Kota Semarang",4
+"221",221,3375,"Kota Pekalongan",4
+"222",222,3376,"Kota Tegal",4
+"223",223,3401,"Kulon Progo",3
+"224",224,3402,"Bantul",1
+"225",225,3403,"Gunung Kidul",4
+"226",226,3404,"Sleman",3
+"227",227,3471,"Kota Yogyakarta",3
+"228",228,3501,"Pacitan",3
+"229",229,3502,"Ponorogo",1
+"230",230,3503,"Trenggalek",1
+"231",231,3504,"Tulungagung",1
+"232",232,3505,"Blitar",1
+"233",233,3506,"Kediri",1
+"234",234,3507,"Malang",3
+"235",235,3508,"Lumajang",1
+"236",236,3509,"Jember",1
+"237",237,3510,"Banyuwangi",1
+"238",238,3511,"Bondowoso",1
+"239",239,3512,"Situbondo",1
+"240",240,3513,"Probolinggo",1
+"241",241,3514,"Pasuruan",1
+"242",242,3515,"Sidoarjo",4
+"243",243,3516,"Mojokerto",1
+"244",244,3517,"Jombang",1
+"245",245,3518,"Nganjuk",1
+"246",246,3519,"Madiun",3
+"247",247,3520,"Magetan",4
+"248",248,3521,"Ngawi",1
+"249",249,3522,"Bojonegoro",1
+"250",250,3523,"Tuban",1
+"251",251,3524,"Lamongan",3
+"252",252,3525,"Gresik",4
+"253",253,3526,"Bangkalan",1
+"254",254,3527,"Sampang",1
+"255",255,3528,"Pamekasan",1
+"256",256,3529,"Sumenep",1
+"257",257,3571,"Kediri",1
+"258",258,3572,"Blitar",1
+"259",259,3573,"Kota Malang",4
+"260",260,3574,"Kota Probolinggo",4
+"261",261,3575,"Kota Pasuruan",4
+"262",262,3576,"Kota Mojokerto",1
+"263",263,3577,"Kota Madiun",4
+"264",264,3578,"Kota Surabaya",4
+"265",265,3579,"Kota Batu",4
+"266",266,3601,"Pandeglang",1
+"267",267,3602,"Lebak",1
+"268",268,3603,"Tangerang",1
+"269",269,3604,"Serang",1
+"270",270,3671,"Tangerang",4
+"271",271,3672,"Cilegon",1
+"272",272,3673,"Kota Serang",1
+"273",273,3674,"Kota Tangerang Selatan",3
+"274",274,5101,"Jembrana",4
+"275",275,5102,"Tabanan",4
+"276",276,5103,"Badung",4
+"277",277,5104,"Gianyar",4
+"278",278,5105,"Klungkung",4
+"279",279,5106,"Bangli",4
+"280",280,5107,"Karang Asem",4
+"281",281,5108,"Buleleng",4
+"282",282,5171,"Kota Denpasar",4
+"283",283,5201,"Lombok Barat",2
+"284",284,5202,"Lombok Tengah",1
+"285",285,5203,"Lombok Timur",1
+"286",286,5204,"Sumbawa",1
+"287",287,5205,"Dompu",1
+"288",288,5206,"Bima",1
+"289",289,5207,"Sumbawa Barat",4
+"290",290,5208,"Lombok Utara",3
+"291",291,5271,"Kota Mataram",4
+"292",292,5272,"Kota Bima",1
+"293",293,5301,"Sumba Barat",1
+"294",294,5302,"Sumba Timur",1
+"295",295,5303,"Kupang",1
+"296",296,5304,"Timor Tengah Selatan",1
+"297",297,5305,"Timor Tengah Utara",1
+"298",298,5306,"Belu",1
+"299",299,5307,"Alor",1
+"300",300,5308,"Lembata",1
+"301",301,5309,"Flores Timur",1
+"302",302,5310,"Sikka",1
+"303",303,5311,"Ende",4
+"304",304,5312,"Ngada",4
+"305",305,5313,"Manggarai",4
+"306",306,5314,"Rote Ndao",1
+"307",307,5315,"Manggarai Barat",1
+"308",308,5316,"Sumba Tengah",1
+"309",309,5317,"Sumba Barat Daya",1
+"310",310,5318,"Nagekeo",1
+"311",311,5319,"Manggarai Timur",1
+"312",312,5320,"Sabu Raijua",1
+"313",313,5321,"Malaka",1
+"314",314,5371,"Kota Kupang",4
+"315",315,6101,"Sambas",1
+"316",316,6102,"Bengkayang",1
+"317",317,6103,"Landak",1
+"318",318,6104,"Mempawah",1
+"319",319,6105,"Sanggau",1
+"320",320,6106,"Ketapang",1
+"321",321,6107,"Sintang",1
+"322",322,6108,"Kapuas Hulu",1
+"323",323,6109,"Sekadau",1
+"324",324,6110,"Melawi",1
+"325",325,6111,"Kayong Utara",1
+"326",326,6112,"Kubu Raya",1
+"327",327,6171,"Kota Pontianak",4
+"328",328,6172,"Kota Singkawang",3
+"329",329,6201,"Kotawaringin Barat",3
+"330",330,6202,"Kotawaringin Timur",4
+"331",331,6203,"Kapuas",3
+"332",332,6204,"Barito Selatan",4
+"333",333,6205,"Barito Utara",4
+"334",334,6206,"Sukamara",1
+"335",335,6207,"Lamandau",1
+"336",336,6208,"Seruyan",1
+"337",337,6209,"Katingan",1
+"338",338,6210,"Pulang Pisau",1
+"339",339,6211,"Gunung Mas",3
+"340",340,6212,"Barito Timur",1
+"341",341,6213,"Murung Raya",1
+"342",342,6271,"Kota Palangka Raya",3
+"343",343,6301,"Tanah Laut",1
+"344",344,6302,"Kota Baru",4
+"345",345,6303,"Banjar",4
+"346",346,6304,"Barito Kuala",2
+"347",347,6305,"Tapin",4
+"348",348,6306,"Hulu Sungai Selatan",4
+"349",349,6307,"Hulu Sungai Tengah",2
+"350",350,6308,"Hulu Sungai Utara",4
+"351",351,6309,"Tabalong",4
+"352",352,6310,"Tanah Bumbu",4
+"353",353,6311,"Balangan",4
+"354",354,6371,"Kota Banjarmasin",4
+"355",355,6372,"Kota Banjar Baru",4
+"356",356,6401,"Paser",4
+"357",357,6402,"Kutai Barat",2
+"358",358,6403,"Kutai Kartanegara",4
+"359",359,6404,"Kutai Timur",4
+"360",360,6405,"Berau",4
+"361",361,6409,"Penajam Paser Utara",3
+"362",362,6411,"Mahakam Hulu",1
+"363",363,6471,"Kota Balikpapan",4
+"364",364,6472,"Kota Samarinda",4
+"365",365,6474,"Kota Bontang",4
+"366",366,6501,"Malinau",4
+"367",367,6502,"Bulungan",4
+"368",368,6503,"Tana Tidung",3
+"369",369,6504,"Nunukan",4
+"370",370,6571,"Kota Tarakan",4
+"371",371,7101,"Bolaang Mongondow",1
+"372",372,7102,"Minahasa",2
+"373",373,7103,"Kepulauan Sangihe",4
+"374",374,7104,"Kepulauan Talaud",2
+"375",375,7105,"Minahasa Selatan",1
+"376",376,7106,"Minahasa Utara",2
+"377",377,7107,"Bolaang Mongondow Utara",1
+"378",378,7108,"Siau Tagulandang Biaro",1
+"379",379,7109,"Minahasa Tenggara",1
+"380",380,7110,"Bolaang Mongondow Selatan",1
+"381",381,7111,"Bolaang Mongondow Timur",1
+"382",382,7171,"Kota Manado",4
+"383",383,7172,"Kota Bitung",4
+"384",384,7173,"Kota Tomohon",2
+"385",385,7174,"Kota Kotamobagu",4
+"386",386,7201,"Banggai Kepulauan",2
+"387",387,7202,"Banggai",2
+"388",388,7203,"Morowali",1
+"389",389,7204,"Poso",4
+"390",390,7205,"Donggala",1
+"391",391,7206,"Toli-toli",4
+"392",392,7207,"Buol",1
+"393",393,7208,"Parigi Moutong",1
+"394",394,7209,"Tojo Una-una",1
+"395",395,7210,"Sigi",1
+"396",396,7211,"Banggai Laut",4
+"397",397,7212,"Morowali Utara",1
+"398",398,7271,"Kota Palu",3
+"399",399,7301,"Kepulauan Selayar",1
+"400",400,7302,"Bulukumba",1
+"401",401,7303,"Bantaeng",4
+"402",402,7304,"Jeneponto",1
+"403",403,7305,"Takalar",2
+"404",404,7306,"Gowa",1
+"405",405,7307,"Sinjai",3
+"406",406,7308,"Maros",2
+"407",407,7309,"Pangkajene Dan Kepulauan",1
+"408",408,7310,"Barru",1
+"409",409,7311,"Bone",1
+"410",410,7312,"Soppeng",1
+"411",411,7313,"Wajo",1
+"412",412,7314,"Sidenreng Rappang",1
+"413",413,7315,"Pinrang",1
+"414",414,7316,"Enrekang",1
+"415",415,7317,"Luwu",1
+"416",416,7318,"Tana Toraja",1
+"417",417,7322,"Luwu Utara",1
+"418",418,7325,"Luwu Timur",1
+"419",419,7326,"Toraja Utara",3
+"420",420,7371,"Kota Makassar",4
+"421",421,7372,"Kota Parepare",4
+"422",422,7373,"Kota Palopo",4
+"423",423,7401,"Buton",1
+"424",424,7402,"Muna",1
+"425",425,7403,"Konawe",1
+"426",426,7404,"Kolaka",1
+"427",427,7405,"Konawe Selatan",1
+"428",428,7406,"Bombana",1
+"429",429,7407,"Wakatobi",1
+"430",430,7408,"Kolaka Utara",4
+"431",431,7409,"Buton Utara",1
+"432",432,7410,"Konawe Utara",1
+"433",433,7411,"Kolaka Timur",4
+"434",434,7412,"Konawe Kepulauan",1
+"435",435,7471,"Kota Kendari",2
+"436",436,7472,"Kota Baubau",4
+"437",437,7501,"Boalemo",1
+"438",438,7502,"Gorontalo",1
+"439",439,7503,"Pohuwato",4
+"440",440,7504,"Bone Bolango",1
+"441",441,7505,"Gorontalo Utara",1
+"442",442,7571,"Kota Gorontalo",4
+"443",443,7601,"Majene",1
+"444",444,7602,"Polewali Mandar",1
+"445",445,7603,"Mamasa",1
+"446",446,7604,"Mamuju",1
+"447",447,7605,"Mamuju Utara",1
+"448",448,7606,"Mamuju Tengah",1
+"449",449,8101,"Maluku Tenggara Barat",3
+"450",450,8102,"Maluku Tenggara",3
+"451",451,8103,"Maluku Tengah",4
+"452",452,8104,"Buru",1
+"453",453,8105,"Kepulauan Aru",1
+"454",454,8106,"Seram Bagian Barat",1
+"455",455,8107,"Seram Bagian Timur",1
+"456",456,8108,"Maluku Barat Daya",1
+"457",457,8109,"Buru Selatan",1
+"458",458,8171,"Kota Ambon",4
+"459",459,8172,"Kota Tual",1
+"460",460,8201,"Halmahera Barat",1
+"461",461,8202,"Halmahera Tengah",1
+"462",462,8203,"Kepulauan Sula",2
+"463",463,8204,"Halmahera Selatan",1
+"464",464,8205,"Halmahera Utara",2
+"465",465,8206,"Halmahera Timur",1
+"466",466,8207,"Pulau Morotai",1
+"467",467,8208,"Pulau Taliabu",1
+"468",468,8271,"Kota Ternate",4
+"469",469,8272,"Kota Tidore Kepulauan",3
+"470",470,9101,"Fakfak",4
+"471",471,9102,"Kaimana",1
+"472",472,9103,"Teluk Wondama",1
+"473",473,9104,"Teluk Bintuni",1
+"474",474,9105,"Manokwari",1
+"475",475,9106,"Sorong Selatan",1
+"476",476,9107,"Sorong",1
+"477",477,9108,"Raja Ampat",1
+"478",478,9109,"Tambrauw",1
+"479",479,9110,"Maybrat",1
+"480",480,9111,"Manokwari Selatan",1
+"481",481,9112,"Pegunungan Arfak",1
+"482",482,9171,"Kota Sorong",4
+"483",483,9401,"Merauke",1
+"484",484,9402,"Jayawijaya",1
+"485",485,9403,"Jayapura",2
+"486",486,9404,"Nabire",1
+"487",487,9408,"Kepulauan Yapen",4
+"488",488,9409,"Biak Numfor",4
+"489",489,9410,"Paniai",1
+"490",490,9411,"Puncak Jaya",1
+"491",491,9412,"Mimika",1
+"492",492,9413,"Boven Digoel",1
+"493",493,9414,"Mappi",1
+"494",494,9415,"Asmat",1
+"495",495,9416,"Yahukimo",1
+"496",496,9417,"Pegunungan Bintang",1
+"497",497,9418,"Tolikara",1
+"498",498,9419,"Sarmi",1
+"499",499,9420,"Keerom",1
+"500",500,9426,"Waropen",1
+"501",501,9427,"Supiori",1
+"502",502,9428,"Mamberamo Raya",1
+"503",503,9429,"Nduga",1
+"504",504,9430,"Lanny Jaya",1
+"505",505,9431,"Mamberamo Tengah",1
+"506",506,9432,"Yalimo",1
+"507",507,9433,"Puncak",1
+"508",508,9434,"Dogiyai",1
+"509",509,9435,"Intan Jaya",1
+"510",510,9436,"Deiyai",1
+"511",511,9471,"Kota Jayapura",4
