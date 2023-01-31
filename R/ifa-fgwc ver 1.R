@@ -28,4 +28,4 @@ Res_ifafgwc <- fgwc(data=sovi_data, pop=Sovi_Pop, distmat=mat_dist,
 
 # Menggabungkan hasil cluster algoritma FGWC dengan data
 cluster.output <- cbind(data_kab ,Res_ifafgwc$cluster)
-write.csv(cluster.output, file = "Final Cluster.csv", row.names = TRUE)
+write.csv(cluster.output, file = "IFAFinal Cluster.csv", row.names = TRUE)
